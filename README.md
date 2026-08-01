@@ -126,8 +126,8 @@ I am a dedicated **Software Engineer** working at the **President Media Division
 
 <div align="center">
   <a href="https://github.com/hashan-lakshitha">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hashan-lakshitha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Hashan's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashan-lakshitha&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=hashan-lakshitha&show_icons=true&theme=tokyonight" alt="Hashan's GitHub Stats" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashan-lakshitha&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
 
@@ -135,7 +135,7 @@ I am a dedicated **Software Engineer** working at the **President Media Division
 
 <div align="center">
   <a href="https://github.com/hashan-lakshitha">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-lakshitha&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=hashan-lakshitha&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </div>
 
