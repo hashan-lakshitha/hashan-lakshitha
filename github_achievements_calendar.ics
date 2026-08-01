@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//GitHub Achievements August 2026 Unlock Plan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:🏆 GitHub Achievement: Unlock Pair Extraordinaire Badge
+DESCRIPTION:Create a co-authored Git commit with a developer collaborator.\nAdd 'Co-authored-by: Name <email>' to commit message footer.
+DTSTART:20260810T043000Z
+DTEND:20260810T053000Z
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pair Extraordinaire Badge Task Today!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏆 GitHub Achievement: Unlock Galaxy Brain Badge
+DESCRIPTION:Answer a technical question in GitHub Discussions and have it marked as Accepted Answer.
+DTSTART:20260817T043000Z
+DTEND:20260817T053000Z
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Galaxy Brain Badge Task Today!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏆 GitHub Achievement: Unlock Starstruck Badge (16+ Stars)
+DESCRIPTION:Promote key open-source repositories across LinkedIn and developer communities to reach 16+ stars.
+DTSTART:20260824T043000Z
+DTEND:20260824T053000Z
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Starstruck Badge Goal Today!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏆 GitHub Achievement: Upgrade Pull Shark Badge (x3 Multiplier)
+DESCRIPTION:Author and merge additional Pull Requests across enterprise and open-source codebases.
+DTSTART:20260828T083000Z
+DTEND:20260828T093000Z
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Upgrade Pull Shark Level Today!
+END:VALARM
+END:VEVENT
+END:VCALENDAR
