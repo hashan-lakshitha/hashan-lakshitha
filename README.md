@@ -17,6 +17,9 @@
   <a href="https://www.instagram.com/hashan_walauwatta" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://web.facebook.com/profile.php?id=100035353004564" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
   <a href="https://github.com/hashan-lakshitha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -46,6 +49,7 @@ I am a dedicated **Software Engineer** working at the **President Media Division
 - 🤖 **AI Integration & Agentic Coding:** Building intelligent web solutions with Google Antigravity, Claude Code, Ollama, and custom AI workflows.
 - 💼 **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/hashan-walauwatta).
 - 📸 **Instagram:** Follow me on [Instagram](https://www.instagram.com/hashan_walauwatta).
+- 📘 **Facebook:** Connect with me on [Facebook](https://web.facebook.com/profile.php?id=100035353004564).
 
 ---
 
