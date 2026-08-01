@@ -47,6 +47,7 @@ I am a dedicated **Software Engineer** working at the **President Media Division
 - ⚡ **Performance & Scalability:** Expert in optimizing web speed, caching layers, and high-concurrency traffic.
 - 🔒 **Security Hardening:** Focused on zero-trust architectures, SSL/TLS security, WAF configurations, and anti-DDoS resilience.
 - 🤖 **AI Integration & Agentic Coding:** Building intelligent web solutions with Google Antigravity, Claude Code, Ollama, and custom AI workflows.
+- 🏢 **Enterprise Bitbucket Engineering:** Actively authoring, reviewing, and merging full-stack Pull Requests across private government Bitbucket repositories.
 - 💼 **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/hashan-walauwatta).
 - 📸 **Instagram:** Follow me on [Instagram](https://www.instagram.com/hashan_walauwatta).
 - 📘 **Facebook:** Connect with me on [Facebook](https://web.facebook.com/profile.php?id=100035353004564).
