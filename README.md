@@ -126,25 +126,38 @@ I am a dedicated **Software Engineer** working at the **President Media Division
 
 ---
 
-### 🏆 Unlocked GitHub Achievements
+### 🏆 Unlocked GitHub Achievements & Medals
 
 <div align="center">
-  <a href="https://github.com/hashan-lakshitha?tab=achievements">
-    <img src="https://img.shields.io/badge/Achievement-Pull_Shark_x2-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark x2" />
-    <img src="https://img.shields.io/badge/Achievement-YOLO-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
-    <img src="https://img.shields.io/badge/Achievement-Quickdraw-FFB703?style=for-the-badge&logo=github&logoColor=black" alt="Quickdraw" />
-  </a>
+  <table align="center" style="border: none; background: transparent;">
+    <tr>
+      <td align="center" width="33%" style="padding: 15px;">
+        <a href="https://github.com/hashan-lakshitha?tab=achievements" target="_blank">
+          <img src="https://img.shields.io/badge/Achievement-Pull_Shark_x2-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark x2" />
+        </a>
+        <br /><br />
+        <b>🦈 Pull Shark (x2 Multiplier)</b><br />
+        <sub style="color: #8b949e;">Authored & merged multiple Pull Requests into production codebases.</sub>
+      </td>
+      <td align="center" width="33%" style="padding: 15px;">
+        <a href="https://github.com/hashan-lakshitha?tab=achievements" target="_blank">
+          <img src="https://img.shields.io/badge/Achievement-YOLO_Master-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="YOLO Master" />
+        </a>
+        <br /><br />
+        <b>🦄 YOLO Master</b><br />
+        <sub style="color: #8b949e;">Merged a Pull Request directly without requiring formal code reviews.</sub>
+      </td>
+      <td align="center" width="33%" style="padding: 15px;">
+        <a href="https://github.com/hashan-lakshitha?tab=achievements" target="_blank">
+          <img src="https://img.shields.io/badge/Achievement-Quickdraw-FFB703?style=for-the-badge&logo=github&logoColor=black" alt="Quickdraw" />
+        </a>
+        <br /><br />
+        <b>🤠 Quickdraw Specialist</b><br />
+        <sub style="color: #8b949e;">Closed or merged an Issue/PR within 5 minutes of creation.</sub>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br />
-
-```
-  ┌────────────────────────────────────────────────────────────────────────┐
-  │  🦈 Pull Shark (x2) : Merged multiple Pull Requests into codebase     │
-  │  🦄 YOLO            : Merged PR without code review                    │
-  │  🤠 Quickdraw       : Closed/Merged PR within 5 minutes of creation   │
-  └────────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
