@@ -11,8 +11,11 @@
 <br />
 
 <div align="center">
-  <a href="https://twitter.com/TharakaNadeel" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.linkedin.com/in/hashan-walauwatta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/hashan_walauwatta" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/hashan-lakshitha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -40,7 +43,8 @@ I am a dedicated **Software Engineer** working at the **President Media Division
 - 🏛️ **National Engineering:** Lead engineer on official Sri Lankan presidential and ministerial platforms.
 - ⚡ **Performance & Scalability:** Expert in optimizing web speed, caching layers, and high-concurrency traffic.
 - 🔒 **Security Hardening:** Focused on zero-trust architectures, SSL/TLS security, WAF configurations, and anti-DDoS resilience.
-- ✉️ **Get in touch:** Connect with me via Twitter [@TharakaNadeel](https://twitter.com/TharakaNadeel).
+- 💼 **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/hashan-walauwatta).
+- 📸 **Instagram:** Follow me on [Instagram](https://www.instagram.com/hashan_walauwatta).
 
 ---
 
@@ -48,12 +52,12 @@ I am a dedicated **Software Engineer** working at the **President Media Division
 
 | Project & Platform | Role / Impact | Status | Live Link |
 | :--- | :--- | :---: | :---: |
-| 🏛️ **President of Sri Lanka** | Official Presidential Portal Architecture | `ACTIVE` | [president.gov.lk](https://www.president.gov.lk) |
-| 📰 **President Media Division** | High-Traffic News & Media Distribution Engine | `ACTIVE` | [pmd.gov.lk](https://www.pmd.gov.lk) |
-| 🤝 **Prajashakthi Portal** | National Community Development Portal | `ACTIVE` | [prajashakthi.gov.lk](https://www.prajashakthi.gov.lk) |
-| 🔬 **NIRDC Portal** | Research & Development Commercialization | `ACTIVE` | [nirdc.gov.lk](https://nirdc.gov.lk) |
-| 🏥 **President's Office** | Official Secretariat Portal | `ACTIVE` | [presidentsoffice.gov.lk](https://www.presidentsoffice.gov.lk) |
-| 🌿 **Clean Sri Lanka** | National Environmental Initiative Web Ecosystem | `ACTIVE` | [cleansrilanka.gov.lk](https://cleansrilanka.gov.lk) |
+| 🏛️ **Presidential website** | Full-Stack Development | `ACTIVE` | [www.president.gov.lk](https://www.president.gov.lk) |
+| 📰 **President Media Division website** | Full-Stack Development | `ACTIVE` | [www.pmd.gov.lk](https://www.pmd.gov.lk) |
+| 🤝 **Prajashakthi website** | Full-Stack Development | `ACTIVE` | [www.prajashakthi.gov.lk](https://www.prajashakthi.gov.lk) |
+| 🔬 **NIRDC website** | Full-Stack Development | `ACTIVE` | [www.nirdc.gov.lk](https://www.nirdc.gov.lk) |
+| 🏥 **President's Office website** | Full-Stack Development | `ACTIVE` | [www.presidentsoffice.gov.lk](https://www.presidentsoffice.gov.lk) |
+
 
 ---
 
