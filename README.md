@@ -126,8 +126,8 @@ I am a dedicated **Software Engineer** working at the **President Media Division
 
 <div align="center">
   <a href="https://github.com/hashan-lakshitha">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=hashan-lakshitha&show_icons=true&theme=tokyonight" alt="Hashan's GitHub Stats" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashan-lakshitha&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img height="175em" src="https://github-readme-stats-eight.vercel.app/api?username=hashan-lakshitha&show_icons=true&theme=tokyonight" alt="Hashan's GitHub Stats" />
+    <img height="175em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=hashan-lakshitha&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
 
