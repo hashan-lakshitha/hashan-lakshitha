@@ -126,6 +126,28 @@ I am a dedicated **Software Engineer** working at the **President Media Division
 
 ---
 
+### 🏆 Unlocked GitHub Achievements
+
+<div align="center">
+  <a href="https://github.com/hashan-lakshitha?tab=achievements">
+    <img src="https://img.shields.io/badge/Achievement-Pull_Shark_x2-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark x2" />
+    <img src="https://img.shields.io/badge/Achievement-YOLO-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
+    <img src="https://img.shields.io/badge/Achievement-Quickdraw-FFB703?style=for-the-badge&logo=github&logoColor=black" alt="Quickdraw" />
+  </a>
+</div>
+
+<br />
+
+```
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │  🦈 Pull Shark (x2) : Merged multiple Pull Requests into codebase     │
+  │  🦄 YOLO            : Merged PR without code review                    │
+  │  🤠 Quickdraw       : Closed/Merged PR within 5 minutes of creation   │
+  └────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ### 📊 GitHub Analytics & Statistics
 
 <div align="center">
