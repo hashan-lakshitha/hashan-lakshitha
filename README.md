@@ -127,34 +127,60 @@ I am a dedicated **Software Engineer** working at the **President Media Division
 
 ---
 
-### 🏆 Unlocked GitHub Achievements & Medals
+### 🏆 Unlocked & Active GitHub Achievements
 
 <div align="center">
   <table align="center" style="border: none; background: transparent;">
     <tr>
-      <td align="center" width="33%" style="padding: 15px;">
+      <td align="center" width="33%" style="padding: 12px;">
         <a href="https://github.com/hashan-lakshitha?tab=achievements" target="_blank">
-          <img src="https://img.shields.io/badge/Achievement-Pull_Shark_x2-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark x2" />
+          <img src="https://img.shields.io/badge/Unlocked-Pull_Shark_x2-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark x2" />
         </a>
         <br /><br />
-        <b>🦈 Pull Shark (x2 Multiplier)</b><br />
-        <sub style="color: #8b949e;">Authored & merged multiple Pull Requests into production codebases.</sub>
+        <b>🦈 Pull Shark (x2)</b><br />
+        <sub style="color: #8b949e;">Authored & merged multiple Pull Requests.</sub>
       </td>
-      <td align="center" width="33%" style="padding: 15px;">
+      <td align="center" width="33%" style="padding: 12px;">
         <a href="https://github.com/hashan-lakshitha?tab=achievements" target="_blank">
-          <img src="https://img.shields.io/badge/Achievement-YOLO_Master-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="YOLO Master" />
+          <img src="https://img.shields.io/badge/Unlocked-YOLO_Master-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="YOLO Master" />
         </a>
         <br /><br />
         <b>🦄 YOLO Master</b><br />
-        <sub style="color: #8b949e;">Merged a Pull Request directly without requiring formal code reviews.</sub>
+        <sub style="color: #8b949e;">Merged PR directly without code review.</sub>
       </td>
-      <td align="center" width="33%" style="padding: 15px;">
+      <td align="center" width="33%" style="padding: 12px;">
         <a href="https://github.com/hashan-lakshitha?tab=achievements" target="_blank">
-          <img src="https://img.shields.io/badge/Achievement-Quickdraw-FFB703?style=for-the-badge&logo=github&logoColor=black" alt="Quickdraw" />
+          <img src="https://img.shields.io/badge/Unlocked-Quickdraw-FFB703?style=for-the-badge&logo=github&logoColor=black" alt="Quickdraw" />
         </a>
         <br /><br />
-        <b>🤠 Quickdraw Specialist</b><br />
-        <sub style="color: #8b949e;">Closed or merged an Issue/PR within 5 minutes of creation.</sub>
+        <b>🤠 Quickdraw</b><br />
+        <sub style="color: #8b949e;">Closed or merged PR within 5 minutes.</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%" style="padding: 12px;">
+        <a href="https://github.com/hashan-lakshitha?tab=achievements" target="_blank">
+          <img src="https://img.shields.io/badge/Target-Pair_Extraordinaire-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
+        </a>
+        <br /><br />
+        <b>⚡ Pair Extraordinaire</b><br />
+        <sub style="color: #8b949e;">Co-authored commits with collaborators.</sub>
+      </td>
+      <td align="center" width="33%" style="padding: 12px;">
+        <a href="https://github.com/hashan-lakshitha?tab=achievements" target="_blank">
+          <img src="https://img.shields.io/badge/Target-Galaxy_Brain-20b2aa?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain" />
+        </a>
+        <br /><br />
+        <b>🌌 Galaxy Brain</b><br />
+        <sub style="color: #8b949e;">Answered accepted Q&A in Discussions.</sub>
+      </td>
+      <td align="center" width="33%" style="padding: 12px;">
+        <a href="https://github.com/hashan-lakshitha?tab=achievements" target="_blank">
+          <img src="https://img.shields.io/badge/Target-Starstruck-eac54f?style=for-the-badge&logo=github&logoColor=black" alt="Starstruck" />
+        </a>
+        <br /><br />
+        <b>⭐ Starstruck</b><br />
+        <sub style="color: #8b949e;">Earned 16+ Stars on repository.</sub>
       </td>
     </tr>
   </table>
