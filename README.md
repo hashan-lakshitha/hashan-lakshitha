@@ -43,6 +43,7 @@ I am a dedicated **Software Engineer** working at the **President Media Division
 - 🏛️ **National Engineering:** Lead engineer on official Sri Lankan presidential and ministerial platforms.
 - ⚡ **Performance & Scalability:** Expert in optimizing web speed, caching layers, and high-concurrency traffic.
 - 🔒 **Security Hardening:** Focused on zero-trust architectures, SSL/TLS security, WAF configurations, and anti-DDoS resilience.
+- 🤖 **AI Integration & Agentic Coding:** Building intelligent web solutions with Google Antigravity, Claude Code, Ollama, and custom AI workflows.
 - 💼 **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/hashan-walauwatta).
 - 📸 **Instagram:** Follow me on [Instagram](https://www.instagram.com/hashan_walauwatta).
 
@@ -78,6 +79,7 @@ I am a dedicated **Software Engineer** working at the **President Media Division
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -97,10 +99,19 @@ I am a dedicated **Software Engineer** working at the **President Media Division
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+#### 🤖 Artificial Intelligence & Agentic Coding
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-FFB703?style=for-the-badge&logo=github&logoColor=white" />  
 </p>
 
 ---
