@@ -1,23 +1,66 @@
-# Hi there, I'm Hashan Walauwatta 👋
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Hashan%20Walauwatta&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
+</h1>
 
-<p align="left">
-  <a href="https://twitter.com/TharakaNadeel" target="blank"><img src="https://img.shields.io/twitter/follow/TharakaNadeel?logo=twitter&style=for-the-badge&color=1da1f2&labelColor=000000" alt="TharakaNadeel" /></a>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+President+Media+Division;Architecting+National-Level+Digital+Platforms;Full-Stack+Developer+%7C+DevOps+%7C+Web+Security;Building+High-Performance+Government+Services+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+  </a>
+</div>
 
-### 💻 About Me
-I'm a passionate **Software Engineer** from **Sri Lanka** 🇱🇰, currently working at the **President Media Division (PMD)** of the President's Secretariat. I specialize in building high-performance, secure, and modern web applications that serve national-level services.
+<br />
 
-- 🏢 Currently working at **President Media Division**
-- 🛠️ Specializing in **Full-Stack Web Development & DevOps**
-- 🔒 Highly focused on **Web Performance, Security Hardening, and Multi-language support**
-- ✉️ Reach me via Twitter: [@TharakaNadeel](https://twitter.com/TharakaNadeel)
+<div align="center">
+  <a href="https://twitter.com/TharakaNadeel" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/hashan-lakshitha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.pmd.gov.lk" target="_blank">
+    <img src="https://img.shields.io/badge/PMD_Sri_Lanka-FFB703?style=for-the-badge&logo=gov.uk&logoColor=000000" alt="PMD Sri Lanka" />
+  </a>
+</div>
 
 ---
 
-### 🚀 Tech Stack & Skills
+### 👨‍💻 About Me
 
+```
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │  📍 Location   : Sri Lanka 🇱🇰                                          │
+  │  🏢 Current    : Software Engineer @ President Media Division (PMD)   │
+  │  🎯 Speciality : Full-Stack Web Architecture, DevOps & Web Hardening   │
+  │  🛡️ Core Focus : Scalable Government Infrastructure & High Security    │
+  └────────────────────────────────────────────────────────────────────────┘
+```
+
+I am a dedicated **Software Engineer** working at the **President Media Division (PMD)** under the President's Secretariat of Sri Lanka. I design, deploy, and maintain mission-critical government web portals that serve millions of citizens nationwide.
+
+- 🏛️ **National Engineering:** Lead engineer on official Sri Lankan presidential and ministerial platforms.
+- ⚡ **Performance & Scalability:** Expert in optimizing web speed, caching layers, and high-concurrency traffic.
+- 🔒 **Security Hardening:** Focused on zero-trust architectures, SSL/TLS security, WAF configurations, and anti-DDoS resilience.
+- ✉️ **Get in touch:** Connect with me via Twitter [@TharakaNadeel](https://twitter.com/TharakaNadeel).
+
+---
+
+### 🏛️ Key National Project Contributions
+
+| Project & Platform | Role / Impact | Status | Live Link |
+| :--- | :--- | :---: | :---: |
+| 🏛️ **President of Sri Lanka** | Official Presidential Portal Architecture | `ACTIVE` | [president.gov.lk](https://www.president.gov.lk) |
+| 📰 **President Media Division** | High-Traffic News & Media Distribution Engine | `ACTIVE` | [pmd.gov.lk](https://www.pmd.gov.lk) |
+| 🤝 **Prajashakthi Portal** | National Community Development Portal | `ACTIVE` | [prajashakthi.gov.lk](https://www.prajashakthi.gov.lk) |
+| 🔬 **NIRDC Portal** | Research & Development Commercialization | `ACTIVE` | [nirdc.gov.lk](https://nirdc.gov.lk) |
+| 🏥 **President's Office** | Official Secretariat Portal | `ACTIVE` | [presidentsoffice.gov.lk](https://www.presidentsoffice.gov.lk) |
+| 🌿 **Clean Sri Lanka** | National Environmental Initiative Web Ecosystem | `ACTIVE` | [cleansrilanka.gov.lk](https://cleansrilanka.gov.lk) |
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+#### 💻 Programming Languages
 <p align="left">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -27,8 +70,8 @@ I'm a passionate **Software Engineer** from **Sri Lanka** 🇱🇰, currently wo
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+#### ⚛️ Frameworks & Frontend Styling
 <p align="left">
-  <!-- Frameworks & Frontend -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -37,8 +80,8 @@ I'm a passionate **Software Engineer** from **Sri Lanka** 🇱🇰, currently wo
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
+#### ⚙️ Backend & Databases
 <p align="left">
-  <!-- Backend & Database -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -46,46 +89,50 @@ I'm a passionate **Software Engineer** from **Sri Lanka** 🇱🇰, currently wo
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+#### ☁️ Cloud, Security & DevOps Tools
 <p align="left">
-  <!-- Tools & Cloud -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 Key Project Contributions
-I've had the privilege of developing and managing several key national web platforms for the government of Sri Lanka:
+### 📊 GitHub Analytics & Statistics
 
-*   🏛️ **[President.gov.lk](https://www.president.gov.lk)** - Official Website of the President of Sri Lanka.
-*   📰 **[Pmd.gov.lk](https://www.pmd.gov.lk)** - Official Portal of the President Media Division.
-*   🤝 **[Prajashakthi.gov.lk](https://www.prajashakthi.gov.lk)** - National Prajashakthi Portal.
-*   🔬 **[Nirdc.gov.lk](https://nirdc.gov.lk)** - National Initiative for Research and Development Commercialization Portal.
-*   🏥 **[Presidentsoffice.gov.lk](https://www.presidentsoffice.gov.lk)** - President's Office Portal.
-*   🌿 **[CleanSriLanka](https://cleansrilanka.gov.lk)** - Environmental initiative web systems.
+<div align="center">
+  <a href="https://github.com/hashan-lakshitha">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hashan-lakshitha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Hashan's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashan-lakshitha&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/hashan-lakshitha">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-lakshitha&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 GitHub Activity Snake
 
-<p align="center">
-  <a href="https://github.com/hashan-lakshitha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hashan-lakshitha&show_icons=true&theme=dark&locale=en" alt="Hashan's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/hashan-lakshitha">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-lakshitha&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hashan-lakshitha/hashan-lakshitha/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hashan-lakshitha/hashan-lakshitha/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/hashan-lakshitha/hashan-lakshitha/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
-<p align="center">
-  <i>"Writing clean, secure, and optimized code to build a digital future."</i>
-</p>
+<div align="center">
+  <p><i>"Architecting secure, high-performance digital systems for national resilience."</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" width="100%" alt="Footer Banner" />
+</div>
